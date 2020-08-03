@@ -31,7 +31,7 @@ I looked at the data sets and their different various categorical variables.
 Below are some of the insights I made:
 
 * **Officers in their 20s and 30s are more likely to behave inappropriately than older officers**
-<img src="https://user-images.githubusercontent.com/58377262/89234537-23e9b500-d5e4-11ea-865b-a4d1376d2354.png" height=300 width=300 align=center>
+<img src="https://user-images.githubusercontent.com/58377262/89234537-23e9b500-d5e4-11ea-865b-a4d1376d2354.png" height=600 width=1200 align=left>
  
 
 * **Male NYPD Officers are more aggressive than female officers**
@@ -45,9 +45,9 @@ Below are some of the insights I made:
 
 * **NYPD officers are most likely to abuse their authority when misconducting themselves**
 
-<img src="https://user-images.githubusercontent.com/58377262/89235674-8c399600-d5e6-11ea-960f-497f35463ee9.png" width=500 height= 700 align=right>
+<img src="https://user-images.githubusercontent.com/58377262/89235674-8c399600-d5e6-11ea-960f-497f35463ee9.png" width=1200 height= 600 align=left>
  
 
 * **Black NewYorkers are more likely to face police brutality than any other racial group**
-<img src="https://user-images.githubusercontent.com/58377262/89235925-23065280-d5e7-11ea-8fc2-a239b3c978ca.png" height=500 width=300 align=right>
+<img src="https://user-images.githubusercontent.com/58377262/89235925-23065280-d5e7-11ea-8fc2-a239b3c978ca.png" height=550 width=800 align=left>
 
