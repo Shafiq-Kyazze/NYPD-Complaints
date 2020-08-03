@@ -34,6 +34,7 @@ Below are some of the insights I made:
 ![Officer age group](https://user-images.githubusercontent.com/58377262/89234537-23e9b500-d5e4-11ea-865b-a4d1376d2354.png)
 
 * **Male NYPD Officers are more aggressive than female officers**
+
 | Fado Type          | Female Officer(%) | Male (%) |
 | ------------------ |:-----------------:| --------:|
 | Abuse of Authority | 6.2               |   93.8   |
