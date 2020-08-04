@@ -19,16 +19,16 @@
 ***
 ## Data Cleaning
 ***
-The data was cleaned to make it more comprehensible and easier to use. I made the foloowing changes:\
-* Removed rows without complainant ethnicity.\
-* Joined the first and last name columns together and got rid of them.\
-* Filled rows with missing complainant gender with the commonest gender.\
-* Deleted rows with missing contact reason and precinct.\
-* Filled rows with missing outcome description.\
+The data was cleaned to make it more comprehensible and easier to use. I made the foloowing changes:
+* Removed rows without complainant ethnicity.
+* Joined the first and last name columns together and got rid of them.
+* Filled rows with missing complainant gender with the commonest gender.
+* Deleted rows with missing contact reason and precinct.
+* Filled rows with missing outcome description.
 ***
 ## Exploratory Data Analysis
 I looked at the data sets and their different various categorical variables.\
-Below are some of the insights I made:\
+Below are some of the insights I made:
 
 **1. Officers in their 20s and 30s are more likely to behave inappropriately than older officers.**
 <img src="https://user-images.githubusercontent.com/58377262/89234537-23e9b500-d5e4-11ea-865b-a4d1376d2354.png" height=600 width=1200 align=left>
