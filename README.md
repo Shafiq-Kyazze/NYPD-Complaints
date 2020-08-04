@@ -44,9 +44,17 @@ Below are some of the insights I made:
 |              Force | 3.8               |   96.2   |
 
 **3. NYPD officers are most likely to abuse their authority when misconducting themselves** 
-<img src="https://user-images.githubusercontent.com/58377262/89235674-8c399600-d5e6-11ea-960f-497f35463ee9.png" width=1200 height= 600 align=left>
+![fado_type, hue=officer gender](https://user-images.githubusercontent.com/58377262/89235674-8c399600-d5e6-11ea-960f-497f35463ee9.png)
 
 
 **4. Black NewYorkers are more likely to face police brutality than any other racial group**
-<img src="https://user-images.githubusercontent.com/58377262/89235925-23065280-d5e7-11ea-8fc2-a239b3c978ca.png" height=550 width=800 align=left>
+![fado_type vs Race](https://user-images.githubusercontent.com/58377262/89235925-23065280-d5e7-11ea-8fc2-a239b3c978ca.png)
+**5.Officers  in their 60s and 50s are less likely to be exonerated than their young counterparts**
+**6. Precint 75 in Brroklyn has the most complaints**
+**7. Officers from precinct 77 in Brookly are more likely to be found in the wrong by the CCRB than officers from any other precinct**
+**8. Officers with higher ranks are less likely to misconduct themselves**
+**9. For every 1000 complaints, 8 are about sexism and anti-trans**
+**10. for every 1000 complaints, 13 are race reelated**
+**11. Hispanic and Black New Yorkers are more likely to make a complaint about bring handled aggressively by the NYPD than any other racial group**
+**12. White New Yorkers are more likely to make a complaint about offensive language and discourtesy than any other racial group**
 
